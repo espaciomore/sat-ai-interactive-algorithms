@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/keypoint/data</oscMessage>
+  <numInputs>1</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>data-1</string>
+  </inputNames>
+</OSCInputGroup>
